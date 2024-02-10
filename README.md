@@ -36,9 +36,8 @@ Derive actionable insights from the transformed data.
 Provide visualizations and summary statistics to facilitate decision-making.
 Equip AtliQ Grands with valuable information for strategic planning and improvements.
 
-Project Structure
-data/: Contains datasets used for analysis.
-notebooks/: Jupyter notebooks for each step of the analysis process.
-scripts/: Python scripts for data cleaning, transformation, and exploration.
-results/: Output files, charts, and graphs generated during the analysis.
-docs/: Additional documentation related to the project.
+Project includes :
+Jupyter notebooks for each step of the analysis process.
+Python scripts for data cleaning, transformation, and exploration.
+Output files, charts, and graphs generated during the analysis.
+Additional documentation related to the project.
